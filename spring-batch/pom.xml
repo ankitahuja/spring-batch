@@ -8,10 +8,6 @@
 		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	
-	
-	
-	
 	<groupId>com.infybuzz</groupId>
 	<artifactId>spring-batch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -36,8 +32,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		
-		
 		<dependency>
 			<groupId>org.springframework.batch</groupId>
 			<artifactId>spring-batch-test</artifactId>
